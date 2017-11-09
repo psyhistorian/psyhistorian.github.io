@@ -6,5 +6,5 @@ layout: default
 
 This blog rambles about the current systematic problems of our society, and sometimes sheds the light on possible paths to solution. The issues discussed are about technology, economics, psychology, and other wide-scale subjects.
 
-  - (2017-11-09) [Writing on the wall](-posts/2017-11-09_writing-on-the-wall.markdown
+  - (2017-11-09) [Writing on the wall](_posts/2017-11-09_writing-on-the-wall.markdown
 ) - why free software matters
