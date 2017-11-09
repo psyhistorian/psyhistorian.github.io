@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Writing on the wall
 
 Step by step, the technology integrates deeper into our lives. It gets more complex, and the further we go, the less control we have over it, and consequently - over our lives. Technology, such as our smartphones, computers, cars, even fridges, is created by corporations and is affected by their agendas. We stop owning things and instead renting them involuntarily. We don't know how to fix our electronics, we don't know how to extend it with new functions, we don't know what it's doing exactly. All cutting edge technology is proprietary...
