@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 title: "Psycho-historian notes"
 description: "Notes about the systematic issues of the current epoch that are unlikely to be fixed"
-show_downloads: "false"
+show_downloads: false
